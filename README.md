@@ -25,4 +25,4 @@ por el camino: ejercicios de Python, una API con FastAPI, contenedores y, despu√
 
 Requiere Python 3.14.
 
-    python 00-python/semana-01/trocear.py
+    python 00-python/semana-01/05_trocear.py
